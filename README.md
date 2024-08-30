@@ -11,10 +11,9 @@ The project's objective was to use the Holt-Winters method of multiplicative sea
 
 <h2>Files</h2>
 
-- <b>SalesForecast.slsx:</b> is the Python notebook where we created and run the models.
+- <b>SalesForecast.slsx:</b> is the Excel document with all the generated data, the graphs and the models to forecast the sales.
 - <b>SalesForecast.docx:</b> is a comprehensive analysis, in which all the details of the dataset and the logic behind the whole project are explained.
 
-  
 <!--
  ```diff
 - text in red
